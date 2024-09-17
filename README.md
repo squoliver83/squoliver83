@@ -9,6 +9,7 @@
 
 ## Cursos e Certificados
 
+- ☕ Participando do [Santander Coders 2024](https://ada.tech/sou-aluno/programas/santander-coders-2024) - Trilha de Backend (Java)
 - ☕ Java Spring Professional – 2023 (120h – [DevSuperior](https://devsuperior.com.br/))
 - Desenvolvimento Web Fullstack - 2020 (+1000h)
 - Spring & Hibernate for Beginners (includes Spring Boot) – 2022 (42.5 horas - Udemy)
@@ -21,7 +22,7 @@
 ## Tecnologias
 
 - 💻 Linguagens de programação: Java.
-- 🌐 Front-end: estudando Javascript, React.js, HTML, CSS, Angular, Vue.
+- 🌐 Front-end: estudando Angular, Javascript, HTML, CSS, Vue, React.js.
 - 🖥️ Back-end: Java, estudando Node.js.
 - 🗃️ Banco de dados: SQL Server, MySQL, PostgreSQL, estudando MongoDB.
 - 🎲 Dados: cursando Análise de Dados pelo Google-Coursera.
