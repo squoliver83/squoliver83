@@ -22,9 +22,9 @@
 ## Tecnologias
 
 - 💻 Linguagens de programação: Java.
-- 🌐 Front-end: estudando Angular, Javascript, HTML, CSS, Vue, React.js.
-- 🖥️ Back-end: Java, estudando Node.js.
-- 🗃️ Banco de dados: SQL Server, MySQL, PostgreSQL, estudando MongoDB.
+- 🌐 Front-end: Angular, Javascript, HTML, CSS, Vue, React.js.
+- 🖥️ Back-end: Java, Node.js.
+- 🗃️ Banco de dados: SQL Server, MySQL, PostgreSQL, MongoDB.
 - 🎲 Dados: cursando Análise de Dados pelo Google-Coursera.
 - 🧰 Ferramentas de Desenvolvimento: IntelliJ, Eclipse, Visual Studio Code, Postman.
 - 🌍 Outras: RESTful APIs, noções de DevOps (CI/CD, Jenkins, DataDog, Kibana).
