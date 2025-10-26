@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara - Baixada Santista.
+- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara - Baixada Santista.
 - 📚 Bacharel em Design pela Universidade Federal de Santa Catarina - UFSC.
 - 👨‍💻 Desenvolvedor Backend com +2 anos de experiência em Java, utilizando ecossistema Spring (JPA/Hibernate, Security, Boot, MVC).
 - ⭕ Conhecimentos básicos na plataforma low-code OutSystems.
